@@ -26,4 +26,4 @@ Desarrollar una aplicación multiplataforma para el seguimiento y control de inv
 - [] Stock de producto
   # FECHAS
   - FECHA INICIO: 16 DE SEPTIEMBRE 
-  - FECHA TERMINO: 20 DE NOVIEMBRE 
+  - FECHA TERMINO: 20 DE NOVIEMBRE.
